@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **gubareve/gubareve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Hi there 👋
+
+### 🔭 I'm currently working on open source projects to help others.</br>
+
+![Evan's github stats](https://github-readme-stats.vercel.app/api?username=gubareve&count_private=true&line_height=25)
+
+### ⚡ While you're at it, take a look at Synergy Addons:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=synergyaddons&repo=synergy-addons)](https://github.com/gubareve/synergy-addons)
+
